@@ -41,7 +41,7 @@ Once root volume encryption begins, it must complete. You cannot pause the opera
 +
 `volume show -fields`
 +
-The following shows example output for an encrypted volume.
+The following shows example output for an encrypted volume:
 +
 ----
 ::> volume show -vserver xyz  -volume vol0 -fields is-encrypted
